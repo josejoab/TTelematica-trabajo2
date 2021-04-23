@@ -8,5 +8,7 @@ de los cuales tenemos los siguientes sub dominios:
 - www2.jomake.tk
 - www3.jomake.tk
 
-para la creación del wordpress usamos el tutorial presentado en el reto 1
+todo esto administrado por cloudflare
+
+para la creación del wordpress usamos el tutorial Descargar wordpress con docker
 
