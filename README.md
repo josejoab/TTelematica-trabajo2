@@ -8,7 +8,10 @@ de los cuales tenemos los siguientes sub dominios:
 - www2.jomake.tk
 - www3.jomake.tk
 
-todo esto administrado por cloudflare
+todo esto administrado por cloudflare y certificado por let's encrypt
 
-para la creación del wordpress usamos el tutorial Descargar wordpress con docker
+los integrantes de este grupo son:
+- José Joab Romero Humba
+- Kevin Alexander Herrera Garcés
+- Manuela Zapato Giraldo
 
