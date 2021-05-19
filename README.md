@@ -1,12 +1,12 @@
 # TTelematica-trabajo2
 
 El dominio del grupo es el siguiente:
-- www.jomake.tk
+- www.jomake.ml
 
 de los cuales tenemos los siguientes sub dominios:
-- www1.jomake.tk
-- www2.jomake.tk
-- www3.jomake.tk
+- www1.jomake.ml
+- www2.jomake.ml
+- www3.jomake.ml
 
 todo esto administrado por cloudflare y certificado por let's encrypt
 
